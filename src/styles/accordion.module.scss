@@ -1,0 +1,13 @@
+@import './variables.scss';
+
+.accordion {
+  &__ol {
+    padding-left: 30px;
+    font-size: 15px;
+    text-align: start;
+  }
+
+  &__li {
+    margin: 15px 0;
+  }
+}
